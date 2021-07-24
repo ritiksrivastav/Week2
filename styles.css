@@ -1,0 +1,19 @@
+ body{
+    background-color: #61e6eb;
+    background-image: url("https://www.transparenttextures.com/patterns/padded.png");
+ }
+img{
+    border: solid 1px black;
+}
+.main{
+    margin: 100px 100px;
+}
+h3{
+    text-decoration: underline;
+    text-decoration-style: double;
+    color: black;
+    text-decoration-thickness: 0.3px;
+}
+.des{
+    margin-left: 20px;
+}

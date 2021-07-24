@@ -1,0 +1,31 @@
+body{
+    align-items: center;
+    background-color: #E98580;
+    background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+}
+.main{
+    background-color: #DF5E5E;
+    background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+    margin: 80px auto;
+    width: 95%;
+    height: 800px;
+}
+h2{
+    font-family: "Times New Roman", Times, serif;
+    color: #FDD2BF;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 0.3px;
+    text-align: center;
+}
+.row{
+    margin-left: 50px;
+    padding-top: 50px;
+}
+img{
+    border: solid 1px black;
+}
+.ele{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

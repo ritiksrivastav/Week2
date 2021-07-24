@@ -1,0 +1,19 @@
+body{
+    background-color: #52006a;
+    background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+}
+.main{
+    background-color: #FF7600;
+    background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+    margin: 100px auto;
+    width: 80%;
+    height: 600px;
+}
+h2{
+    font-family: "Times New Roman", Times, serif;
+    margin: 60px 400px;
+    color: #CD113B;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 0.3px;
+}
